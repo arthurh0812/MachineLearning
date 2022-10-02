@@ -2,7 +2,8 @@
 scikit-learn
 scipy
 scikit-image
-numpy==1.19.*
+seaborn
+numpy~=1.21.5
 matplotlib
 pandas
 opencv-python
